@@ -1,7 +1,3 @@
-# LARAVEL FREE E-COMMERCE APPLICATION 
-Fully featured e-commerce platform with Laravel 
-###  [See screenshots and documentation](http://findhossein.com/e-plus/overview "See screenshots and documention")
-
 
 
 # Setup 
