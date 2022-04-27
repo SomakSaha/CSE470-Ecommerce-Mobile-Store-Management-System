@@ -9,8 +9,8 @@ Fully featured e-commerce platform with Laravel
 2. - `php artisan migrate`
 3. - `php artisan db:seed`
 
-# Contributor
-[Author: hossein haghparast](http://findhossein.com "author: hossein haghparast")
+
+
 
 
 # OverView
