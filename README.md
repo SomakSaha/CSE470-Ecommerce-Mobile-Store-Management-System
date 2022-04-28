@@ -20,7 +20,7 @@
 - Google Log-in is ready to use
 - Users with roles will direct to admin panel
 - a super-admin with : email: admin@gmail.com 
-                and password: 12345678
+                and password: 123456
                 is available
 
 
